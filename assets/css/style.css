@@ -1005,6 +1005,18 @@ button:hover {
 #hiddenText {
             display: none; /* Hide the text initially */
         }
+		#hiddenText1 {
+            display: none; /* Hide the text initially */
+        }
+		#hiddenText2 {
+            display: none; /* Hide the text initially */
+        }
+		#hiddenText3 {
+            display: none; /* Hide the text initially */
+        }
+		#hiddenText4 {
+            display: none; /* Hide the text initially */
+        }
 #message {
             display: none;
             color: red;
