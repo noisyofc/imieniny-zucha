@@ -342,7 +342,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 --------------------------------------*/
 .list-topics-content {
     position: relative;
-    top: -98px;
+    top: -118px;
     z-index: 1;
 }
 .list-topics-content ul li { display: inline-block;}
