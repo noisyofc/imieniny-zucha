@@ -246,7 +246,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     background-position:center;
     background-size:cover;
     text-align: center;
-    height:800px;
+    height:700px;
 
 }
 .welcome-hero:before{
@@ -923,8 +923,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background:#ff545a;
-	border:1px solid #ff545a;
+    background:#660d51;
+	border:1px solid #660d51;
 	border-radius:50%;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -934,8 +934,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 	z-index: 2;
 }
 #scroll-Top  .return-to-top:hover {
-    background:#f43032;
-	border:1px solid #ff545a;
+    background:#660d51;
+	border:1px solid #660d51;
 }
 
 #scroll-Top  .return-to-top i{
